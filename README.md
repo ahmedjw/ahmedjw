@@ -1,5 +1,6 @@
 ### Hello World, I'm Ahmed Abu Jwifel:
-
+LinkedIn Account:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ahmedjwifel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ahmedjwifel?trk=profile-badge">Ahmed Abu Jwifel</a></div>
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif?raw=true" width="24px" style="max-width:100%;">
@@ -78,7 +79,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedjw&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjw&langs_count=3&hide_title=true&hide_border=true" /> </a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ahmedjwifel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ahmedjwifel?trk=profile-badge">Ahmed Abu Jwifel</a></div>
+
               
 
 ### Github Activity: 🔥 
